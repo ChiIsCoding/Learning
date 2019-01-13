@@ -1,0 +1,26 @@
+Jan07 - Jan13 总结
+
+今年准备花一些时间学习计算机的知识和提高编程能力。在刘叔的指导下，准备阅读以下书籍：
+0. Thinking in Java
+1. Clean Code
+2. Head First Design Patterns
+3. Refactoring
+4. CSPR
+5. TDD
+
+除了Thinking in Java准备每周看两章外，其它的书籍准备从第一周开始按照顺序学习。
+
+这一周读了ThinkingInJava的前两章（Intro to Objects & Everything Is an Object），重温了Java语言的一些基本概念。其中有一些关于语言的细节，是之前见过却不知道细节的。我接下来需要阅读后面的详细章节来更全面的学习Java语言。
+
+这一周我同时阅读了Clean Code的1-10章。这些章节主要讲了一些编程过程中需要注意的一些事项和一些概念。大部分的我在平时的工作过程中都接触过，所以读起来比较快。不过其中还是有很多原来没有注意的点，比如：
+1）命名避免不必要prefix
+2）严格控制function的arguments的个数
+3）Extract try/catch blocks
+4）避免不必要的comments，comments的存在经常说明code本身不清晰需要修改
+5）The Law of Demeter
+6）Use Unchecked Exceptions，并且在throw的时候要多想Exception会被如何handle
+7）Boundaries一章很有帮助，介绍了如何学习和使用3rd party库的经验如Learning Tests
+
+虽然很多章节内容我之前大概知道，但是一些章节如3、6、7、8、9、10我会结合后面几章的例子再去阅读和实践。
+
+下周我准备按照计划继续读两章ThinkingInJava，并且阅读Clean Code剩下的章节。
