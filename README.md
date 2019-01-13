@@ -1,2 +1,2 @@
 # Learning
-Learning process for 2019.
+Learning progress in 2019.
